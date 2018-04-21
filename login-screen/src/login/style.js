@@ -4,21 +4,21 @@ const { StyleSheet } = React;
 
 export default {
 
-loginScreenContainer: {
+containerView: {
   flex: 1,
 },
-logoView: {
+loginScreenContainer: {
   flex: 1,
-  alignItems: 'center',
-  justifyContent: 'center',
 },
 logoText: {
   fontSize: 40,
   fontWeight: "800",
-  marginTop: 120
+  marginTop: 150,
+  marginBottom: 30,
+  textAlign: 'center',
 },
 loginFormView: {
-  flex: 2
+  flex: 1
 },
 loginFormTextInput: {
   height: 43,
@@ -39,5 +39,10 @@ loginButton: {
   borderRadius: 5,
   height: 45,
   marginTop: 10,
-}
+},
+fbLoginButton: {
+  height: 45,
+  marginTop: 10,
+  backgroundColor: 'transparent',
+},
 };

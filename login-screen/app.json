@@ -1,5 +1,11 @@
 {
   "expo": {
+    "facebookScheme": "fb1047121222092614",
+    "facebookAppId": "1047121222092614",
+    "facebookDisplayName": "instmobile",
+    "android": {
+      "package": "io.instamobile.login"
+    },
     "name": "login-screen",
     "description": "This project is really great.",
     "slug": "login-screen",
