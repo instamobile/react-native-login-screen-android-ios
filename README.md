@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://www.instamobile.io/app-templates/react-native-login-screen-template/"><img src="https://www.instamobile.io/wp-content/uploads/2018/04/react-native-login-screen-template-cover.png" width="25%" alt = "React Native Login Screen"/></a>
+	<a href="https://www.instamobile.io/app-templates/react-native-login-screen-template/"><img src="https://www.instamobile.io/wp-content/uploads/2018/04/react-native-login-screen-template-cover.png" alt = "React Native Login Screen"/></a>
 </p>
 
 ## React Native Login Screen for Android &amp; iOS
