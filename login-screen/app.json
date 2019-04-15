@@ -7,7 +7,7 @@
       "package": "io.instamobile.login"
     },
     "name": "login-screen",
-    "description": "This project is really great.",
+    "description": "Login Screen implementation by https://www.instamobile.io and https://www.iosapptemplates.com .",
     "slug": "login-screen",
     "privacy": "public",
     "sdkVersion": "26.0.0",

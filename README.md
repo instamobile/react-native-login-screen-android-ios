@@ -4,6 +4,8 @@
 
 ## React Native Login Screen for Android &amp; iOS
 
+You can preview this app on <a href="https://expo.io/@floryan2oo7">Expo</a>, on both iOS and Android.
+
 ## About
 
 This is a simple react native login screen It has support for <b>signing in with
@@ -13,4 +15,4 @@ The template uses Facebook Login framework, provided by Expo.
 
 ## Documentation
 
-If you want even more details on the project, please visit <a href="https://www.instamobile.io/">Instamobile</a>.
+If you want even more details on the project, please visit <a href="https://www.instamobile.io/">Instamobile</a> and <a href="https://www.iosapptemplates.com">iOS App Templates</a>.
