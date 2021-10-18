@@ -10,8 +10,10 @@
     "description": "Login Screen implementation by https://www.instamobile.io and https://www.iosapptemplates.com .",
     "slug": "login-screen",
     "privacy": "public",
-    "sdkVersion": "26.0.0",
-    "platforms": ["ios", "android"],
+    "platforms": [
+      "ios",
+      "android"
+    ],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
