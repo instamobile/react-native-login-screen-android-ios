@@ -1,8 +1,8 @@
 import React from "react";
 
 import styles from "./style";
-import { Alert, Image, Keyboard, KeyboardAvoidingView, Text, TextInput, TouchableWithoutFeedback, Pressable, View } from "react-native";
-import { Button, SocialIcon } from "react-native-elements";
+import { Alert, Keyboard, KeyboardAvoidingView, Text, TextInput, TouchableWithoutFeedback, View } from "react-native";
+import { Button } from "react-native-elements";
 import * as Facebook from "expo-facebook";
 
 const appId = "1047121222092614";
@@ -24,6 +24,7 @@ export default function LoginScreen() {
       }
     } catch ({ message }) {
       Alert.alert(`Facebook Login Error: ${message}`);
+      console.log(message)
     }
   };
 
