@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://www.instamobile.io/app-templates/react-native-login-screen-template/"><img src="https://www.instamobile.io/wp-content/uploads/2018/04/react-native-login-screen-template-cover.png" alt = "React Native Login Screen"/></a>
+	<a href="https://instamobile.io/app-templates/react-native-login-screen-template/"><img src="https://www.instamobile.io/wp-content/uploads/2018/04/react-native-login-screen-template-cover.png" alt = "React Native Login Screen"/></a>
 </p>
 
 ## React Native Login Screen for Android &amp; iOS
@@ -15,4 +15,4 @@ The template uses Facebook Login framework, provided by Expo.
 
 ## Documentation
 
-If you want even more details on the project, please visit <a href="https://www.instamobile.io/">Instamobile</a> and <a href="https://www.iosapptemplates.com">iOS App Templates</a>.
+If you want even more details on the project, please visit <a href="https://instamobile.io/">Instamobile</a> and <a href="https://iosapptemplates.com">iOS App Templates</a>.
